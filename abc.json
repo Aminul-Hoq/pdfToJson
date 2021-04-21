@@ -1,0 +1,653 @@
+[
+  {
+    "W0.1": {
+      "value": "",
+      "text": "(W0.1) Give a general description of and introduction to your organization."
+    },
+    "W-FB0.1a": {
+      "value": "",
+      "text": "(W-FB0.1a) Which activities in the food, beverage, and tobacco sector does your organization engage in?\nProcessing/Manufacturing\nDistribution"
+    },
+    "W0.2": {
+      "value": "",
+      "text": "(W0.2) State the start and end date of the year for which you are reporting data."
+    },
+    "W0.3": {
+      "value": "",
+      "text": "(W0.3) Select the countries/areas for which you will be supplying data.\nAfghanistan\nAlbania\nAlgeria\nAngola\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain"
+    }
+  },
+  {
+    "W0.4": {
+      "value": "",
+      "text": "(W0.4) Select the currency used for all financial information disclosed throughout your response.\nUSD"
+    },
+    "W0.5": {
+      "value": "",
+      "text": "(W0.5) Select the option that best describes the reporting boundary for companies, entities, or groups for which water impacts on your business are being\nreported.\nOther, please specify (Includes independent franchise bottlers)"
+    },
+    "W0.6": {
+      "value": "",
+      "text": "(W0.6) Within this boundary, are there any geographies, facilities, water aspects, or other exclusions from your disclosure?\nYes"
+    },
+    "W1.1": {
+      "value": ""
+    }
+  },
+  {
+    "W1.1": {
+      "text": "(W1.1) Rate the importance (current and future) of water quality and water quantity to the success of your business.",
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": "",
+      "text": "(W-FB1.1a) Which water-intensive agricultural commodities that your organization produces and/or sources are the most significant to your business by\nrevenue? Select up to five."
+    },
+    "W1.2": {
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "text": "(W1.2) Across all your operations, what proportion of the following water aspects are regularly measured and monitored?",
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "value": ""
+    },
+    "W4.1": {
+      "value": ""
+    },
+    "W5.1": {
+      "value": ""
+    },
+    "W-FB1.2e": {
+      "value": "",
+      "text": "(W-FB1.2e) For each commodity reported in question W-FB1.1a, do you know the proportion that is produced/sourced from areas with water stress?"
+    },
+    "W-FB1.1a": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB1.2g": {
+      "text": "(W-FB1.2g) What proportion of the sourced agricultural commodities reported in W-FB1.1a originate from areas with water stress?",
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": ""
+    },
+    "W-FB1.2e": {
+      "value": ""
+    },
+    "W1.2": {
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": ""
+    },
+    "W-FB1.3b": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB1.3b": {
+      "text": "(W-FB1.3b) Provide water intensity information for each of the agricultural commodities identified in W-FB1.3 that you source.",
+      "value": ""
+    },
+    "W1.4": {
+      "value": "",
+      "text": "(W1.4) Do you engage with your value chain on water-related issues?\nYes, our suppliers"
+    }
+  },
+  {
+    "W1.4": {
+      "value": ""
+    },
+    "W2.1": {
+      "value": "",
+      "text": "(W2.1) Has your organization experienced any detrimental water-related impacts?\nNo"
+    },
+    "W2.2": {
+      "value": "",
+      "text": "(W2.2) In the reporting year, was your organization subject to any fines, enforcement orders, and/or other penalties for water-related regulatory violations?\nYes, fines, enforcement orders or other penalties but none that are considered as significant"
+    }
+  },
+  {
+    "W2.2": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB3.1a": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB3.1a": {
+      "text": "(W-FB3.1a) Describe how your organization minimizes the adverse impacts of potential water pollutants on water ecosystems or human health associated with\nyour food, beverage, and tobacco sector activities.",
+      "value": ""
+    },
+    "W8.1": {
+      "value": ""
+    },
+    "W3.3": {
+      "value": "",
+      "text": "(W3.3) Does your organization undertake a water-related risk assessment?\nYes, water-related risks are assessed"
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W4.1": {
+      "value": "",
+      "text": "(W4.1) Have you identified any inherent water-related risks with the potential to have a substantive financial or strategic impact on your business?\nYes, both in direct operations and the rest of our value chain"
+    }
+  },
+  {
+    "W4.1": {
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "text": "(W4.2) Provide details of identified risks in your direct operations with the potential to have a substantive financial or strategic impact on your business, and your\nresponse to those risks.",
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "value": ""
+    }
+  },
+  {
+    "W4.3": {
+      "text": "(W4.3) Have you identified any water-related opportunities with the potential to have a substantive financial or strategic impact on your business?\nYes, we have identified opportunities, and some/all are being realized",
+      "value": ""
+    },
+    "W5.1": {
+      "value": "",
+      "text": "(W5.1) For each facility referenced in W4.1c, provide coordinates, water accounting data, and a comparison with the previous reporting year."
+    },
+    "W4.1": {
+      "value": ""
+    }
+  },
+  {
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W6.1": {
+      "value": ""
+    }
+  },
+  {
+    "W6.1": {
+      "text": "(W6.1) Does your organization have a water policy?\nYes, we have a documented water policy that is publicly available",
+      "value": ""
+    },
+    "W6.2": {
+      "value": "",
+      "text": "(W6.2) Is there board level oversight of water-related issues within your organization?\nYes"
+    }
+  },
+  {
+    "W6.2": {
+      "value": ""
+    },
+    "W6.3": {
+      "value": ""
+    }
+  },
+  {
+    "W6.3": {
+      "text": "(W6.3) Provide the highest management-level position(s) or committee(s) with responsibility for water-related issues (do not include the names of individuals).",
+      "value": ""
+    },
+    "W6.4": {
+      "value": "",
+      "text": "(W6.4) Do you provide incentives to C-suite employees or board members for the management of water-related issues?"
+    }
+  },
+  {
+    "W6.5": {
+      "value": "",
+      "text": "(W6.5) Do you engage in activities that could either directly or indirectly influence public policy on water through any of the following?\nYes, direct engagement with policy makers\nYes, trade associations\nYes, funding research organizations"
+    },
+    "W6.6": {
+      "value": "",
+      "text": "(W6.6) Did your organization include information about its response to water-related risks in its most recent mainstream financial report?\nYes (you may attach the report - this is optional)\nFinal Coke 10K (2).pdf"
+    },
+    "W7.1": {
+      "value": "",
+      "text": "(W7.1) Are water-related issues integrated into any aspects of your long-term strategic business plan, and if so how?"
+    }
+  },
+  {
+    "W7.2": {
+      "text": "(W7.2) What is the trend in your organization\u2019s water-related capital expenditure (CAPEX) and operating expenditure (OPEX) for the reporting year, and the\nanticipated trend for the next reporting year?",
+      "value": ""
+    },
+    "W7.3": {
+      "value": "",
+      "text": "(W7.3) Does your organization use climate-related scenario analysis to inform its business strategy?"
+    },
+    "W7.4": {
+      "value": ""
+    }
+  },
+  {
+    "W7.4": {
+      "text": "(W7.4) Does your company use an internal price on water?",
+      "value": ""
+    },
+    "W8.1": {
+      "value": "",
+      "text": "(W8.1) Describe your approach to setting and monitoring water-related targets and/or goals."
+    }
+  },
+  {
+    "W8.1": {
+      "value": ""
+    },
+    "W9.1": {
+      "value": "",
+      "text": "(W9.1) Do you verify any other water information reported in your CDP disclosure (not already covered by W5.1a)?\nYes"
+    },
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W0.1": {
+      "value": ""
+    },
+    "W0.2": {
+      "value": ""
+    },
+    "W1.1": {
+      "value": ""
+    },
+    "W1.2": {
+      "value": ""
+    },
+    "W2.1": {
+      "value": ""
+    },
+    "W2.2": {
+      "value": ""
+    },
+    "W4.2": {
+      "value": ""
+    },
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W2.2": {
+      "value": ""
+    },
+    "W3.1": {
+      "value": ""
+    }
+  }
+][
+  {
+    "W0.1": {
+      "value": "",
+      "text": "(W0.1) Give a general description of and introduction to your organization."
+    },
+    "W-FB0.1a": {
+      "value": "",
+      "text": "(W-FB0.1a) Which activities in the food, beverage, and tobacco sector does your organization engage in?\nProcessing/Manufacturing\nDistribution"
+    },
+    "W0.2": {
+      "value": "",
+      "text": "(W0.2) State the start and end date of the year for which you are reporting data."
+    },
+    "W0.3": {
+      "value": "",
+      "text": "(W0.3) Select the countries/areas for which you will be supplying data.\nAfghanistan\nAlbania\nAlgeria\nAngola\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain"
+    }
+  },
+  {
+    "W0.4": {
+      "value": "",
+      "text": "(W0.4) Select the currency used for all financial information disclosed throughout your response.\nUSD"
+    },
+    "W0.5": {
+      "value": "",
+      "text": "(W0.5) Select the option that best describes the reporting boundary for companies, entities, or groups for which water impacts on your business are being\nreported.\nOther, please specify (Includes independent franchise bottlers)"
+    },
+    "W0.6": {
+      "value": "",
+      "text": "(W0.6) Within this boundary, are there any geographies, facilities, water aspects, or other exclusions from your disclosure?\nYes"
+    },
+    "W1.1": {
+      "value": ""
+    }
+  },
+  {
+    "W1.1": {
+      "text": "(W1.1) Rate the importance (current and future) of water quality and water quantity to the success of your business.",
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": "",
+      "text": "(W-FB1.1a) Which water-intensive agricultural commodities that your organization produces and/or sources are the most significant to your business by\nrevenue? Select up to five."
+    },
+    "W1.2": {
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "text": "(W1.2) Across all your operations, what proportion of the following water aspects are regularly measured and monitored?",
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "value": ""
+    },
+    "W4.1": {
+      "value": ""
+    },
+    "W5.1": {
+      "value": ""
+    },
+    "W-FB1.2e": {
+      "value": "",
+      "text": "(W-FB1.2e) For each commodity reported in question W-FB1.1a, do you know the proportion that is produced/sourced from areas with water stress?"
+    },
+    "W-FB1.1a": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB1.2g": {
+      "text": "(W-FB1.2g) What proportion of the sourced agricultural commodities reported in W-FB1.1a originate from areas with water stress?",
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": ""
+    },
+    "W-FB1.2e": {
+      "value": ""
+    },
+    "W1.2": {
+      "value": ""
+    }
+  },
+  {
+    "W1.2": {
+      "value": ""
+    },
+    "W-FB1.1a": {
+      "value": ""
+    },
+    "W-FB1.3b": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB1.3b": {
+      "text": "(W-FB1.3b) Provide water intensity information for each of the agricultural commodities identified in W-FB1.3 that you source.",
+      "value": ""
+    },
+    "W1.4": {
+      "value": "",
+      "text": "(W1.4) Do you engage with your value chain on water-related issues?\nYes, our suppliers"
+    }
+  },
+  {
+    "W1.4": {
+      "value": ""
+    },
+    "W2.1": {
+      "value": "",
+      "text": "(W2.1) Has your organization experienced any detrimental water-related impacts?\nNo"
+    },
+    "W2.2": {
+      "value": "",
+      "text": "(W2.2) In the reporting year, was your organization subject to any fines, enforcement orders, and/or other penalties for water-related regulatory violations?\nYes, fines, enforcement orders or other penalties but none that are considered as significant"
+    }
+  },
+  {
+    "W2.2": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB3.1a": {
+      "value": ""
+    }
+  },
+  {
+    "W-FB3.1a": {
+      "text": "(W-FB3.1a) Describe how your organization minimizes the adverse impacts of potential water pollutants on water ecosystems or human health associated with\nyour food, beverage, and tobacco sector activities.",
+      "value": ""
+    },
+    "W8.1": {
+      "value": ""
+    },
+    "W3.3": {
+      "value": "",
+      "text": "(W3.3) Does your organization undertake a water-related risk assessment?\nYes, water-related risks are assessed"
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W3.3": {
+      "value": ""
+    }
+  },
+  {
+    "W4.1": {
+      "value": "",
+      "text": "(W4.1) Have you identified any inherent water-related risks with the potential to have a substantive financial or strategic impact on your business?\nYes, both in direct operations and the rest of our value chain"
+    }
+  },
+  {
+    "W4.1": {
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "text": "(W4.2) Provide details of identified risks in your direct operations with the potential to have a substantive financial or strategic impact on your business, and your\nresponse to those risks.",
+      "value": ""
+    }
+  },
+  {
+    "W4.2": {
+      "value": ""
+    }
+  },
+  {
+    "W4.3": {
+      "text": "(W4.3) Have you identified any water-related opportunities with the potential to have a substantive financial or strategic impact on your business?\nYes, we have identified opportunities, and some/all are being realized",
+      "value": ""
+    },
+    "W5.1": {
+      "value": "",
+      "text": "(W5.1) For each facility referenced in W4.1c, provide coordinates, water accounting data, and a comparison with the previous reporting year."
+    },
+    "W4.1": {
+      "value": ""
+    }
+  },
+  {
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W6.1": {
+      "value": ""
+    }
+  },
+  {
+    "W6.1": {
+      "text": "(W6.1) Does your organization have a water policy?\nYes, we have a documented water policy that is publicly available",
+      "value": ""
+    },
+    "W6.2": {
+      "value": "",
+      "text": "(W6.2) Is there board level oversight of water-related issues within your organization?\nYes"
+    }
+  },
+  {
+    "W6.2": {
+      "value": ""
+    },
+    "W6.3": {
+      "value": ""
+    }
+  },
+  {
+    "W6.3": {
+      "text": "(W6.3) Provide the highest management-level position(s) or committee(s) with responsibility for water-related issues (do not include the names of individuals).",
+      "value": ""
+    },
+    "W6.4": {
+      "value": "",
+      "text": "(W6.4) Do you provide incentives to C-suite employees or board members for the management of water-related issues?"
+    }
+  },
+  {
+    "W6.5": {
+      "value": "",
+      "text": "(W6.5) Do you engage in activities that could either directly or indirectly influence public policy on water through any of the following?\nYes, direct engagement with policy makers\nYes, trade associations\nYes, funding research organizations"
+    },
+    "W6.6": {
+      "value": "",
+      "text": "(W6.6) Did your organization include information about its response to water-related risks in its most recent mainstream financial report?\nYes (you may attach the report - this is optional)\nFinal Coke 10K (2).pdf"
+    },
+    "W7.1": {
+      "value": "",
+      "text": "(W7.1) Are water-related issues integrated into any aspects of your long-term strategic business plan, and if so how?"
+    }
+  },
+  {
+    "W7.2": {
+      "text": "(W7.2) What is the trend in your organization\u2019s water-related capital expenditure (CAPEX) and operating expenditure (OPEX) for the reporting year, and the\nanticipated trend for the next reporting year?",
+      "value": ""
+    },
+    "W7.3": {
+      "value": "",
+      "text": "(W7.3) Does your organization use climate-related scenario analysis to inform its business strategy?"
+    },
+    "W7.4": {
+      "value": ""
+    }
+  },
+  {
+    "W7.4": {
+      "text": "(W7.4) Does your company use an internal price on water?",
+      "value": ""
+    },
+    "W8.1": {
+      "value": "",
+      "text": "(W8.1) Describe your approach to setting and monitoring water-related targets and/or goals."
+    }
+  },
+  {
+    "W8.1": {
+      "value": ""
+    },
+    "W9.1": {
+      "value": "",
+      "text": "(W9.1) Do you verify any other water information reported in your CDP disclosure (not already covered by W5.1a)?\nYes"
+    },
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W0.1": {
+      "value": ""
+    },
+    "W0.2": {
+      "value": ""
+    },
+    "W1.1": {
+      "value": ""
+    },
+    "W1.2": {
+      "value": ""
+    },
+    "W2.1": {
+      "value": ""
+    },
+    "W2.2": {
+      "value": ""
+    },
+    "W4.2": {
+      "value": ""
+    },
+    "W5.1": {
+      "value": ""
+    }
+  },
+  {
+    "W2.2": {
+      "value": ""
+    },
+    "W3.1": {
+      "value": ""
+    }
+  }
+]
