@@ -5,7 +5,7 @@ import json
 import os
 from PyPDF2 import PdfFileReader
 
-list = []
+List = []
 ap = argparse.ArgumentParser()
 ap.add_argument("-f", "--file", required=True,
                 help="path to input directory of pdf")
@@ -13,19 +13,27 @@ args = vars(ap.parse_args())
 
 
 def pdfParser(args):
-    fp = open(str((args["file"])))
-    pdf = PdfFileReader(fp)
-    # Create a PDF interpreter object.
-    # Process each page contained in the document.
-    create_file = open("export.json", "a")
+    path = (args["file"]) or (args["f"])
+    print("[Opening pdf file for processing....]")
+    fp = open(path, 'rb')
+    pdf = PdfFileReader(fp).getDocumentInfo()
+    List.append({"title": pdf.title,
+                 "creator": pdf.creator,
+                 "proucer": pdf.producer,
+                 })
+    print("[Reading Text by page from file....]")
+    count = 1
     for page in PDFPage.get_pages(fp):
-        page_data = textToDictionary.converter(page, counter)
+        print("[Processing Page " + str(count) + ".....]")
+        page_data = textToDictionary.converter(page)
         if len(page_data) != 0:
-            list.append(page_data)
+            List.append(page_data)
+        count += 1
 
-    json_data = json.dumps(list, indent=2)
+    print("[Exporting JSON file....]")
+    json_data = json.dumps(List, indent=2)
+    create_file = open("export.json", "w")
     create_file.write(json_data)
-    # print(list)
 
 
 if __name__ == '__main__':

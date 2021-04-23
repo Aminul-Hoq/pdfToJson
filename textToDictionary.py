@@ -6,15 +6,14 @@ import io
 import re
 
 
-def converter(page, counter):
+def converter(page):
     rsrcmgr = PDFResourceManager()
     retstr = io.StringIO()
     codec = 'utf-8'
     laparams = LAParams()
-    device = TextConverter(rsrcmgr, retstr, laparams=laparams)
+    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
     interpreter = PDFPageInterpreter(rsrcmgr, device)
 
-    page_data = {}
     interpreter.process_page(page)
     data = retstr.getvalue()
     return groupData(data)
@@ -22,7 +21,6 @@ def converter(page, counter):
 
 def groupData(data):
     group = {}
-    # pattern1 = "W\d\."
     pattern2 = "W\d\.\d|W\d\.\d\w|W...\d\.\d\w"
     group_key = (re.findall(pattern2, data))
     split = data.split("\n\n")
