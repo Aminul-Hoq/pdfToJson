@@ -23,13 +23,14 @@ def pdfParser(args):
                  })
     print("[Reading Text by page from file....]")
     count = 1
+    page_data = ''
     for page in PDFPage.get_pages(fp):
         print("[Processing Page " + str(count) + ".....]")
-        page_data = textToDictionary.converter(page)
-        if len(page_data) != 0:
-            List.append(page_data)
+        page_data += textToDictionary.converter(page)
         count += 1
-
+    data = textToDictionary.groupData(page_data)
+    if len(data) != 0:
+        List.append(data)
     print("[Exporting JSON file....]")
     json_data = json.dumps(List, indent=2)
     create_file = open("export.json", "w")
