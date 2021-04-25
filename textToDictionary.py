@@ -33,7 +33,7 @@ def groupData(data):
     for key in group_key:
         group_by_key = {}
         txt, value, split = text_value(key, split, group_key)
-        group_by_key['text'] = txt
+        group_by_key['text'] = txt.strip()
         txt.replace(txt, '')
         group_by_key['value'] = formatValue.formatValue(value)
         group[key] = group_by_key
