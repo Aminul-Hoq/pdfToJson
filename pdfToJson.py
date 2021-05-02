@@ -19,7 +19,7 @@ def pdfParser(args):
     pdf = PdfFileReader(fp).getDocumentInfo()
     List.append({"title": pdf.title,
                  "creator": pdf.creator,
-                 "proucer": pdf.producer,
+                 "producer": pdf.producer,
                  })
     print("[Reading Text by page from file....]")
     count = 1
